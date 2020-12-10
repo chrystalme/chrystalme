@@ -1,59 +1,22 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Hello, I am Chrys
 
-> One paragraph statement about the project.
+> Full-Stack Developer. I live in Lebanon and I am open to learn new technologies. Looking for opportunity anywhere it exists. Remote Work is the future of work and collaboration brings software and knowledge together. I am an advocate of clean energy and sustainable living. 
 
-![screenshot](./app_screenshot.png)
+## Technologies
 
-Additional description about the project and its features.
+- HTML and CSS
+- Javascript
+- Java
+- Python
+- Ruby 
 
-## Built With
+👤 **Catch me on**
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
-
-## Authors
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
+- GitHub: [@chrystalme](https://github.com/chrystalme)
+- Twitter: [@afam_chrys](https://twitter.com/afam_chrys)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/afam-ifeanyi-chrys-malieze-63876576)
 
 ## 🤝 Contributing
 
@@ -67,10 +30,10 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Microverse for creating and enviromnment for remote learning.
+- Family - Nadi and Mila for their patience with me through my study time.
+- My Partners and Mentor
 
 ## 📝 License
 
-This project is [MIT](lic.url) licensed.
+This project is [MIT](https://mit-lincense.org) licensed.
