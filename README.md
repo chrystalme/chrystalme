@@ -28,7 +28,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Microverse for creating and enviromnment for remote learning.
+- Microverse for creating an environment for remote learning.
 - Family - Nadi and Mila for their patience with me through my study time.
 - My Partners and Mentor
 
