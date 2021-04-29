@@ -16,7 +16,7 @@
 
 - GitHub: [@chrystalme](https://github.com/chrystalme)
 - Twitter: [@afam_chrys](https://twitter.com/afam_chrys)
-- LinkedIn: [Afam Ifeanyi](https://www.linkedin.com/in/afam-ifeanyi-chrys-malieze-63876576)
+- LinkedIn: [Afam Ifeanyi](https://www.linkedin.com/in/afam-chrys/)
 
 ## 🤝 Contributing
 
