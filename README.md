@@ -17,6 +17,7 @@
 - GitHub: [@chrystalme](https://github.com/chrystalme)
 - Twitter: [@afam_chrys](https://twitter.com/afam_chrys)
 - LinkedIn: [Afam Ifeanyi](https://www.linkedin.com/in/afam-chrys/)
+- AngelList: [Chrys](https://angel.co/malieze-afam-ifeanyi-chrys)
 
 ## 🤝 Contributing
 
