@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   [![Visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)]()
 
   <div>
-    <img title="React" height=35 src="https://cdn.worldvectorlogo.com/logos/react.svg" />
+    <img title="React" height=35 src="https://cdn.worldvectorlogo.com/logos/react-2.svg" />
     <img title="Redux" height=35 src="https://cdn.worldvectorlogo.com/logos/redux.svg" />
     <img title="Rails" height=35 src="https://cdn.worldvectorlogo.com/logos/rails.svg" />
     <img title="Python" height=35 src="https://cdn.worldvectorlogo.com/logos/python-5.svg" />
