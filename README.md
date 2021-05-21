@@ -35,7 +35,7 @@ Here are some ideas to get you started:
   <div>
     <ul display="inline">
       
-      <li><a href='https://github.com/chrystalme'> GitHub: [@chrystalme]=) </a></li>
+ - GitHub: [@chrystalme](https://github.com/chrystalme)
 - Twitter: [@afam_chrys](https://twitter.com/afam_chrys)
 - LinkedIn: [Afam Ifeanyi](https://www.linkedin.com/in/afam-chrys/)
 - AngelList: [Chrys](https://angel.co/malieze-afam-ifeanyi-chrys)
@@ -43,23 +43,6 @@ Here are some ideas to get you started:
   </div>
     
 </div>
-<!--
-**ourandco/ourandco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-> 
 
 ## Technologies
 
