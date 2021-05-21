@@ -32,12 +32,13 @@ Here are some ideas to get you started:
     <img title="Bootstrap" height=35 src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" />
     <img title="SASS" height=35 src="https://cdn.worldvectorlogo.com/logos/node-sass.svg" />
   </div>
-</div>   
+</div> 
+
+## Networking Links
  - GitHub: [@chrystalme](https://github.com/chrystalme)
 - Twitter: [@afam_chrys](https://twitter.com/afam_chrys)
 - LinkedIn: [Afam Ifeanyi](https://www.linkedin.com/in/afam-chrys/)
 - AngelList: [Chrys](https://angel.co/malieze-afam-ifeanyi-chrys)
-
 
 ## Technologies
 
