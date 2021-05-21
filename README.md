@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   #<p>Hello there 👋 , I am Chrys.</p>
-  <p>I'm a Full Stack Web developer</p>
+  <p> Full-Stack Developer. I live in Lebanon and I am open to learn new technologies. Looking for opportunity anywhere it exists. Remote Work is the future of work and collaboration brings software and knowledge together. I am an advocate of clean energy and sustainable living.</p>
 
   ![Github Stats](https://github-readme-stats.vercel.app/api?username=Chrystalme&count_private=true&show_icons=true&theme=light)
   
@@ -31,6 +31,14 @@ Here are some ideas to get you started:
     <img title="Java" height=35 src="https://cdn.worldvectorlogo.com/logos/java-duke.svg" />
     <img title="Bootstrap" height=35 src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" />
     <img title="SASS" height=35 src="https://cdn.worldvectorlogo.com/logos/node-sass.svg" />
+  </div>
+  <div>
+    <ul display="inline">
+      <li>GitHub: [@chrystalme](https://github.com/chrystalme) </li>
+- Twitter: [@afam_chrys](https://twitter.com/afam_chrys)
+- LinkedIn: [Afam Ifeanyi](https://www.linkedin.com/in/afam-chrys/)
+- AngelList: [Chrys](https://angel.co/malieze-afam-ifeanyi-chrys)
+    </ul>
   </div>
     
 </div>
@@ -50,7 +58,7 @@ Here are some ideas to get you started:
 -->
 
 
-> Full-Stack Developer. I live in Lebanon and I am open to learn new technologies. Looking for opportunity anywhere it exists. Remote Work is the future of work and collaboration brings software and knowledge together. I am an advocate of clean energy and sustainable living. 
+> 
 
 ## Technologies
 
@@ -62,10 +70,7 @@ Here are some ideas to get you started:
 
 👤 **Catch me on**
 
-- GitHub: [@chrystalme](https://github.com/chrystalme)
-- Twitter: [@afam_chrys](https://twitter.com/afam_chrys)
-- LinkedIn: [Afam Ifeanyi](https://www.linkedin.com/in/afam-chrys/)
-- AngelList: [Chrys](https://angel.co/malieze-afam-ifeanyi-chrys)
+
 
 ## 🤝 Contributing
 
