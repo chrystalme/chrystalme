@@ -27,7 +27,7 @@ Here are some ideas to get you started:
     <img title="Redux" height=35 src="https://cdn.worldvectorlogo.com/logos/redux.svg" />
     <img title="Rails" height=35 src="https://cdn.worldvectorlogo.com/logos/rails.svg" />
     <img title="Python" height=35 src="https://cdn.worldvectorlogo.com/logos/python-5.svg" />
-    <img title="C#" height=35 src="https://cdn.worldvectorlogo.com/logos/c--4.svg" />
+    <img title="C#" height=35 src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" />
     <img title="Java" height=35 src="https://cdn.worldvectorlogo.com/logos/java-duke.svg" />
     <img title="Bootstrap" height=35 src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" />
     <img title="SASS" height=35 src="https://cdn.worldvectorlogo.com/logos/node-sass.svg" />
