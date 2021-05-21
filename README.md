@@ -34,7 +34,8 @@ Here are some ideas to get you started:
   </div>
   <div>
     <ul display="inline">
-      <li>GitHub: [@chrystalme](https://github.com/chrystalme) </li>
+      [![GitHub](https://github.com/chrystalme)]()
+      <li>aGitHub: [@chrystalme](https://github.com/chrystalme) </li>
 - Twitter: [@afam_chrys](https://twitter.com/afam_chrys)
 - LinkedIn: [Afam Ifeanyi](https://www.linkedin.com/in/afam-chrys/)
 - AngelList: [Chrys](https://angel.co/malieze-afam-ifeanyi-chrys)
