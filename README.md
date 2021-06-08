@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <p>Hello there 👋 , I am Chrys.</p>
-  <p> Full-Stack Developer. I live in Lebanon and I am open to learn new technologies. Looking for opportunity anywhere it exists. Remote Work is the future of work and collaboration brings software and knowledge together. I am an advocate of clean energy and sustainable living.</p>
+  <p> Full-Stack Web Developer. I live in Lebanon and I am open to learn new technologies. Looking for opportunity anywhere it exists. Remote work is the future of work and collaboration brings software and knowledge together. I am an advocate of clean energy and sustainable living.</p>
 
   ![Github Stats](https://github-readme-stats.vercel.app/api?username=Chrystalme&count_private=true&show_icons=true&theme=light)
   
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 ## Technologies
 
 - HTML and CSS
-- Javascript
+- JavaScript
 - Java
 - Python
 - Ruby 
