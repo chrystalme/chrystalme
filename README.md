@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   <p>Hello there 👋 , I am Chrys.</p>
   <p> Full-Stack Web Developer. I live in Lebanon and I am open to learn new technologies. Looking for opportunity anywhere it exists. Remote work is the future of work and collaboration brings software and knowledge together. I am an advocate of clean energy and sustainable living.</p>
 
-  ![Github Stats](https://github-readme-stats.vercel.app/api?username=Chrystalme&count_private=true&show_icons=true&theme=light)
+  ![Github Stats](https://github-readme-stats.vercel.app/api?username=Chrystalme&count_private=true&show_icons=true&theme=dark)
   
   [![Visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)]()
 
